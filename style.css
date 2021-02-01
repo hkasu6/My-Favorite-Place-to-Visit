@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background: linear-gradient(#26acc9 0%, #ffffff 100%)
+}
+
+h1 {
+    text-shadow: 2px 2px #393434;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#myname {
+    font-family: 'Indie Flower', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #03bafc;
+}
